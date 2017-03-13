@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1098370539234",
+    "firebase_url": "https://bitbank-7e0cb.firebaseio.com",
+    "project_id": "bitbank-7e0cb",
+    "storage_bucket": "bitbank-7e0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098370539234:android:6ce72213bd5032e9",
+        "android_client_info": {
+          "package_name": "edu.svsu.bitbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098370539234-mfg80d2msrjr11jp709grktbhitet5u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.svsu.bitbank",
+            "certificate_hash": "0b9c33159af23610e7e7ff2dcc8f3a3e47fc5ff2"
+          }
+        },
+        {
+          "client_id": "1098370539234-qqj4fej7vmj97vngaeqbtbl4lofntqdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbd-7jcJvrFOiNoP1kf5pMd520d5Ey9FM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098370539234-qqj4fej7vmj97vngaeqbtbl4lofntqdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
